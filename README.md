@@ -21,7 +21,7 @@ Vulnerability #1: __________________
 
 Description:
 
-<img src="KelseySpearsUnit9.gif">
+<img src="">
 
 
 ## Notes
